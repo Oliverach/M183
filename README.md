@@ -46,3 +46,9 @@ Or I can escape my quotes:
 Any quote that is preceded by a slash is escaped and understood to be part of the value of the string.
 
 Character combinations consisting of a backslash (\) followed by a letter or by a combination of digits are called "escape sequences." To represent a newline character, single quotation mark, or certain other characters in a character constant, you must use escape sequences. An escape sequence is regarded as a single character and is therefore valid as a character constant.
+
+# Reflextion
+
+## Raphael
+
+Der Einstieg in das Modul mit den OWASP Themen war spannend und auch breit in den Themen. Das Thema Cross Site Scrpiting und SQL-Injections gefiel mir besonder weil es direkt mit dem Modul 151 am morgen zusammenhängt. Zusammen mit Herr Achermann vertieften wir uns in diese Sicherheitsrisiken und bauten uns Fachwissen hierzu auf. Die Community Software WebGoat half uns visuell das XSS und ihre Problematik zu verstehen. Ich konnte die Sicherheitsthemen die wir in diesem Modul besprochen haben gleich im Modul 151 für ein Webshop Projekt verwenden und wusste dort becheid wenn es um das Sichern vor Fremdzugriffen oder Manipulation ging. Einige Sicherheitsrisiken waren ein Wenig zu Abstrakt für mich oder ich hatte noch keinen grossen Kontakt mit den Themen. Ich fand das Modul war gut abgerundet mit aktuellen Sicherheitsthemen.
